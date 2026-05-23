@@ -1,10 +1,10 @@
 import React from 'react'
-import './chat.css'
+import './Chat.css'
 
 const chat = () => {
   return (
     <div>
-      
+      We are on the chat page
     </div>
   )
 }
